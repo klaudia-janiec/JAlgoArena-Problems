@@ -1,4 +1,4 @@
-# JAlgoArena Problems [![Build Status](https://travis-ci.org/spolnik/JAlgoArena-Problems.svg?branch=master)](https://travis-ci.org/spolnik/JAlgoArena-Problems) [![codecov](https://codecov.io/gh/spolnik/JAlgoArena-Problems/branch/master/graph/badge.svg)](https://codecov.io/gh/spolnik/JAlgoArena-Problems) [![GitHub release](https://img.shields.io/github/release/spolnik/jalgoarena-problems.svg)]()
+# JAlgoArena Problems [![Build Status](https://travis-ci.org/klaudia-janiec/JAlgoArena-Problems.svg?branch=master)](https://travis-ci.org/klaudia-janiec/JAlgoArena-Problems)
 
 JAlgoArena Problems is service dedicated for keeping problems definitions and their meta-data.
 
@@ -27,12 +27,12 @@ Demo: https://jalgoarena-problems.herokuapp.com/
 
 ## Components
 
-- [JAlgoArena](https://github.com/spolnik/JAlgoArena)
-- [JAlgoArena UI](https://github.com/spolnik/JAlgoArena-UI)
-- [JAlgoArena Judge](https://github.com/spolnik/JAlgoArena-Judge)
-- [JAlgoArena Auth Server](https://github.com/spolnik/JAlgoArena-Auth)
-- [JAlgoArena Eureka Server](https://github.com/spolnik/JAlgoArena-Eureka)
-- [JAlgoArena API Gateway](https://github.com/spolnik/JAlgoArena-API)
+- [JAlgoArena](https://github.com/klaudia-janiec/JAlgoArena)
+- [JAlgoArena UI](https://github.com/klaudia-janiec/JAlgoArena-UI)
+- [JAlgoArena Judge](https://github.com/klaudia-janiec/JAlgoArena-Judge)
+- [JAlgoArena Auth Server](https://github.com/klaudia-janiec/JAlgoArena-Auth)
+- [JAlgoArena Eureka Server](https://github.com/klaudia-janiec/JAlgoArena-Eureka)
+- [JAlgoArena API Gateway](https://github.com/klaudia-janiec/JAlgoArena-API)
 
 ## Continuous Delivery
 
@@ -47,7 +47,7 @@ Demo: https://jalgoarena-problems.herokuapp.com/
 - Heroku (PaaS)
 - Xodus (embedded highly scalable database) - http://jetbrains.github.io/xodus/
 - Spring Boot, Spring Cloud (Eureka Client)
-- TravisCI - https://travis-ci.org/spolnik/JAlgoArena-Problems
+- TravisCI - https://travis-ci.org/klaudia-janiec/JAlgoArena-Problems
 
 ## Running locally
 
@@ -65,7 +65,7 @@ There are two ways to run it - from sources or from binaries.
 - there is second way to run app with gradle. Instead of running above, you can just run `./gradlew clean bootRun`
 
 ## Notes
-- [Running locally](https://github.com/spolnik/jalgoarena/wiki)
-- [Travis Builds](https://travis-ci.org/spolnik)
+- [Running locally](https://github.com/klaudia-janiec/jalgoarena/wiki)
+- [Travis Builds](https://travis-ci.org/klaudia-janiec)
 
 ![Component Diagram](https://github.com/spolnik/JAlgoArena/raw/master/design/JAlgoArena_Logo.png)
